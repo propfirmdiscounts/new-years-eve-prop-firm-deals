@@ -21,7 +21,7 @@ tags:
 
 As of 2026-01-22, 40 New Year's Eve deals from 25 prop firms are tracked, 20 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified New Year's Eve discount codes in the 2026 season are 90% OFF with code PFD at Upcomers, 70% OFF with code PFD at Funding Traders, 50% OFF with code PFD at Earn2Trade, 50% OFF with code PFD at QT Funded, and 35% OFF with code PFD at Blue Guardian Futures.
+The biggest verified New Year's Eve discount codes in the 2026 season are 90% OFF with code PFD at Upcomers, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at QT Funded, 50% OFF with code PFD at Earn2Trade, and 35% OFF with code PFD at Blue Guardian Futures.
 
 ## Prop Firms with the Highest Discount Codes in New Year's Eve 2026
 
@@ -29,8 +29,8 @@ The biggest verified New Year's Eve discount codes in the 2026 season are 90% OF
 |---|---|---|---|---|---|---|---|
 | 1 | Upcomers | PFD | 90% | Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement | 90% off | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | 2 | Funding Traders | PFD | 70% | New Year Offer: 26% Off + 100% Split & BOGO | 26% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Earn2Trade | PFD | 50% | 2026 New Year Deal: 50% Off Select Evaluations | 50% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 4 | QT Funded | PFD | 50% | New Year Offer: Free Matching Instant Account on All Models | Free Account | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 3 | QT Funded | PFD | 60% | New Year Offer: Free Matching Instant Account on All Models | Free Account | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 4 | Earn2Trade | PFD | 50% | 2026 New Year Deal: 50% Off Select Evaluations | 50% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | 5 | Blue Guardian Futures | PFD | 35% | New Year Offer: 60% OFF All Evaluation Accounts | 60% off | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | 6 | PipFarm | PFDC | 30% | New Year Offer: 100K Accounts from $199 + 5K Account for $9.99 | Only $9.99 | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | 7 | Super Funded | CHUN | 30% | New Year Offer: 30% OFF All Challenges Entry Cost | 30% off | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
