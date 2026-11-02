@@ -21,22 +21,22 @@ tags:
 
 As of 2026-01-22, 40 New Year's Eve deals from 25 prop firms are tracked, 20 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified New Year's Eve discount codes in the 2026 season are 90% OFF with code PFD at Upcomers, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at QT Funded, 50% OFF with code PFD at Earn2Trade, and 35% OFF with code PFD at Blue Guardian Futures.
+The biggest verified New Year's Eve discount codes in the 2026 season are 90% OFF with code PFD at Upcomers, 60% OFF with code PFD at Blue Guardian Futures, 50% OFF with code PFD at Earn2Trade, and 26% OFF with code PFD at Funding Traders.
 
 ## Prop Firms with the Highest Discount Codes in New Year's Eve 2026
 
-| # | Prop firm | Exclusive code | Code discount (Current) | Latest New Year's Eve deal | Deal discount | Expires | Firm page |
+| # | Prop firm | Exclusive code | Code discount (Standing) | Latest New Year's Eve deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Upcomers | PFD | 90% | Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement | 90% off | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| 2 | Funding Traders | PFD | 70% | New Year Offer: 26% Off + 100% Split & BOGO | 26% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | QT Funded | PFD | 60% | New Year Offer: Free Matching Instant Account on All Models | Free Account | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 4 | Earn2Trade | PFD | 50% | 2026 New Year Deal: 50% Off Select Evaluations | 50% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 5 | Blue Guardian Futures | PFD | 35% | New Year Offer: 60% OFF All Evaluation Accounts | 60% off | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
-| 6 | PipFarm | PFDC | 30% | New Year Offer: 100K Accounts from $199 + 5K Account for $9.99 | Only $9.99 | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| 7 | Super Funded | CHUN | 30% | New Year Offer: 30% OFF All Challenges Entry Cost | 30% off | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
-| 8 | AquaFunded | PFD | 25% | New Year Offer: 50% Off Instants, 45% Off Challenges + BOGO | 50% off | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 9 | TX3 Funding | PFDC | 25% | New Year Deal: 20% OFF All Challenges | 20% off | Ended | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 10 | Equity Edge | PFD | 20% | New Year Offer: 50% OFF Challenges + Free Instant Account | 50% off | Ended | https://propfirmdiscount.com/prop-firm/equity-edge/ |
+| 1 | Upcomers | PFD | 90% | Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
+| 2 | Funding Traders | PFD | 26% | New Year Offer: 26% Off + 100% Split & BOGO | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-new-year-offer-26-off/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 3 | QT Funded | PFD | 60% | New Year Offer: Free Matching Instant Account on All Models | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 4 | Earn2Trade | PFD | 50% | 2026 New Year Deal: 50% Off Select Evaluations | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 5 | Blue Guardian Futures | PFD | 60% | New Year Offer: 60% OFF All Evaluation Accounts | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
+| 6 | PipFarm | PFDC | 30% | New Year Offer: 100K Accounts from $199 + 5K Account for $9.99 | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-new-year-100k-5k-offer/) | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| 7 | Super Funded | CHUN | 30% | New Year Offer: 30% OFF All Challenges Entry Cost | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-new-year-30-off/) | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
+| 8 | AquaFunded | PFD | 25% | New Year Offer: 50% Off Instants, 45% Off Challenges + BOGO | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-offer-50-off-instants-45-off-challenges/) | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 9 | TX3 Funding | PFDC | 25% | New Year Deal: 20% OFF All Challenges | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-new-year-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 10 | Equity Edge | PFD | 20% | New Year Offer: 50% OFF Challenges + Free Instant Account | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-new-year-offer-50-off-challenges-free-instant-account/) | Ended | https://propfirmdiscount.com/prop-firm/equity-edge/ |
 
 The newest is **Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement** from Upcomers — 90% off.
 
@@ -161,11 +161,9 @@ links are appended after, in the order below.
 | `prop_firm` | Firm name. |
 | `prop_firm_slug` | Firm slug. |
 | `standing_code` | The firm's discount code. It works any time, has no end date, and is identical on every row of that firm because it belongs to the firm rather than to the dated deal on that row. |
-| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Current)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
+| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Standing)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
-| `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
-| `code_state` | `standing` where `code` is present. |
 
 To state one of these offers: the code is `standing_code`, worth
 `standing_discount`, redeemed at `activation_link`. For a specific
