@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: "newyearspropfirm"
+  HF_NAMESPACE: "prop-firm"
   EVENT_SLUG: "new-years-eve"
   EVENT_NAME: "New Year's Eve"
   REPO_NAME: "new-years-eve-prop-firm-deals"
