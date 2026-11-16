@@ -1,10 +1,10 @@
-# New Year's Eve Prop Firm Discount Codes (2026)
+# New Year's Eve Prop Firm Deals & Discount Codes (2026)
 
-This New Year's Eve, 40 deals from 25 prop firms are tracked, with 20 published during the 2026 season. Every firm carries a verified discount code that works year-round.
+Explore New Year's Eve prop firm deals and discount codes from 25 proprietary trading firms, with 40 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified New Year's Eve discount codes in the 2026 season are 90% OFF with code PFD at Upcomers, 60% OFF with code PFD at Blue Guardian Futures, 50% OFF with code PFD at Earn2Trade, and 26% OFF with code PFD at FundingTraders.
 
-## Prop Firms with the Highest Discount Codes in New Year's Eve 2026
+## Prop Firms with the Highest New Year's Eve Discounts 2026
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest New Year's Eve deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
@@ -19,20 +19,23 @@ As of November 2026, the biggest verified New Year's Eve discount codes in the 2
 | 9 | PipFarm | PFDC | 30% | New Year Offer: 100K Accounts from $199 + 5K Account for $9.99 | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-new-year-100k-5k-offer/) | Ended | [PipFarm Page](https://propfirmdiscount.com/prop-firm/pipfarm/) |
 | 10 | Super Funded | CHUN | 30% | New Year Offer: 30% OFF All Challenges Entry Cost | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-new-year-30-off/) | Ended | [Super Funded Page](https://propfirmdiscount.com/prop-firm/super-funded/) |
 
-The newest is **Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement with code PFD** from Upcomers — 90% off.
+The latest recorded New Year's Eve-tagged promotion is Upcomers offering Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement with code PFD, published on January 22, 2026. The offer has since ended.
 
 - Event: New Year's Eve
-- Deals tracked: 40 (20 in 2026)
-- Firms: 25
+- New Year's Eve deals in this dataset: 40
+- Firms represented: 25
+- Deals published in 2026: 20
 - Firms with a code in the 2026 season: 19
 - Newest deal: 2026-01-22
-- Deals tagged on the site: 75 (40 of them from firms with a verified code, listed below)
 - GitHub repository: [New Year's Eve Deals Repository](https://github.com/propfirmdiscounts/new-years-eve-prop-firm-deals)
+- All New Year's Eve-tagged deals on the main site: 75 (40 of them from firms with a verified code, listed below)
 - Event page: [New Year's Eve Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/new-years-eve/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
 
-## New Year's Eve prop firm deals FAQ
+This repository includes New Year's Eve-tagged deals from firms with a verified standing discount code. The main website may contain additional New Year's Eve-tagged promotions from firms that are not included in this dataset.
+
+## New Year's Eve Prop Firm Deals & Discount Codes FAQ
 
 **What is the newest New Year's Eve prop firm deal?**
 
@@ -48,11 +51,11 @@ The newest deal is 90% off. Standing discount codes among these firms run 93% of
 
 ---
 
-## New Year's Eve deal history
+## New Year's Eve Prop Firm Deal History
 
 Total deals tracked: **40**
 
-### 2026 (20 deals)
+### 2026 New Year's Eve Deals (20 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -77,7 +80,7 @@ Total deals tracked: **40**
 | 2026-01-01 | Phoenix Trader Funding | Phoenix Trader Funding: 50% Off New Year Thor Subscriptions | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-50-off-new-year-thor/) |
 | 2026-01-01 | Equity Edge | Equity Edge: New Year Offer: 50% OFF Challenges + Free Instant Account | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-new-year-offer-50-off-challenges-free-instant-account/) |
 
-### 2025 (17 deals)
+### 2025 New Year's Eve Deals (17 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -99,7 +102,7 @@ Total deals tracked: **40**
 | 2025-12-19 | TX3 Funding | TX3 Funding: Year End Savings: 35% Off Flex Challenges | 35% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-year-end-savings-flex-challenges/) |
 | 2025-12-18 | FundingTraders | FundingTraders: New Year Offer: 50% OFF Instant Funded and 2-Step Accounts with code PFD | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-new-year-deal/) |
 
-### 2024 (3 deals)
+### 2024 New Year's Eve Deals (3 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -109,20 +112,19 @@ Total deals tracked: **40**
 
 ---
 
-## About this repository
+## About the New Year's Eve Prop Firm Deals Dataset
 
-This repository mirrors every **New Year's Eve** deal published on PropFirmDiscount.com by a
-firm carrying a verified discount code, regenerated from the live API.
+This dataset provides a historical record of New Year's Eve-tagged promotional deals published on PropFirmDiscount.com by proprietary trading firms with recorded standing discount codes. Each record preserves the campaign's original discount details, publication date, expiration information, and related firm data. The dataset is regenerated from the PropFirmDiscount API.
 
 A deal is listed here because an editor tagged it for New Year's Eve on the site, not because
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
-instead: https://github.com/propfirmdiscounts
+instead in the [PropFirmDiscount Repositories](https://github.com/propfirmdiscounts).
 
 - Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
 - Event page: [New Year's Eve Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/new-years-eve/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/new-years-eve-prop-firm-deals.json`
+## New Year's Eve Prop Firm Deals Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -152,13 +154,13 @@ To state one of these offers: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 The deal history above is the source of truth for what changed and when.
 Standing codes are re-verified by the PropFirmDiscount team; campaign
 codes come and go with each promotion. The most recent deal date carried
 in this file is the `Newest deal` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
