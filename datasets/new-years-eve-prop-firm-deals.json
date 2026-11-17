@@ -150,7 +150,7 @@
       "All Models (Prime, Futures, Ultra)"
     ],
     "discount_value": "Free Account",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2026-01-06",
     "date_exp": "Ended",
@@ -430,7 +430,7 @@
       "All Accounts (Challenge, Pro, Instant Funding)"
     ],
     "discount_value": "40%",
-    "standing_code": "JACKICHUN",
+    "standing_code": "PFDC",
     "standing_discount": "25%",
     "date_published": "2025-12-31",
     "date_exp": "Ended",
@@ -470,7 +470,7 @@
       "All Evaluation Models"
     ],
     "discount_value": "50%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-12-31",
     "date_exp": "Ended",
@@ -610,7 +610,7 @@
       "All Challenge Accounts"
     ],
     "discount_value": "35%",
-    "standing_code": "JACKICHUN",
+    "standing_code": "PFDC",
     "standing_discount": "25%",
     "date_published": "2025-12-29",
     "date_exp": "Ended",
@@ -630,7 +630,7 @@
       "All Evaluations"
     ],
     "discount_value": "50%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-12-27",
     "date_exp": "Ended",
