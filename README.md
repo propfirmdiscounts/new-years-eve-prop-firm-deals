@@ -1,34 +1,34 @@
 # New Year's Eve Prop Firm Deals & Discount Codes (2026)
 
-Explore New Year's Eve prop firm deals and discount codes from 24 proprietary trading firms, with 39 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
+Explore New Year's Eve prop firm deals and discount codes from 23 proprietary trading firms, with 38 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
-As of November 2026, the biggest verified New Year's Eve discount codes in the 2026 season are 90% OFF with code PFD at Upcomers, 60% OFF with code PFD at Blue Guardian Futures, 50% OFF with code PFD at Earn2Trade, and 26% OFF with code PFD at FundingTraders.
+As of November 2026, the biggest verified New Year's Eve discount codes in the 2026 season are 60% OFF with code PFD at Blue Guardian Futures, 50% OFF with code PFD at Earn2Trade, and 26% OFF with code PFD at FundingTraders.
 
 ## Prop Firms with the Highest New Year's Eve Discounts 2026
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest New Year's Eve deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Upcomers | PFD | 90% | Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement with code PFD | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/) | Ended | [Upcomers Page](https://propfirmdiscount.com/prop-firm/upcomers/) |
-| 2 | FundingTraders | PFD | 26% | New Year Offer: 26% Off + 100% Split & BOGO with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-new-year-offer-26-off/) | Ended | [FundingTraders Page](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
-| 3 | Earn2Trade | PFD | 50% | 2026 New Year Deal: 50% Off Select Evaluations with code PFD | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/) | Ended | [Earn2Trade Page](https://propfirmdiscount.com/prop-firm/earn2trade/) |
-| 4 | QT Funded | PFDDEAL | 50% | New Year Offer: Free Matching Instant Account on All Models | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/) | Ended | [QT Funded Page](https://propfirmdiscount.com/prop-firm/qt-funded/) |
-| 5 | TX3 Funding | PFDC | 50% | New Year Deal: 20% OFF All Challenges | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-new-year-promotion/) | Ended | [TX3 Funding Page](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
-| 6 | Phoenix Trader Funding | PFD | 40% | 50% Off New Year Thor Subscriptions | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-50-off-new-year-thor/) | Ended | [Phoenix Trader Funding Page](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/) |
-| 7 | AquaFunded | PFD | 35% | New Year Offer: 50% Off Instants, 45% Off Challenges + BOGO | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-offer-50-off-instants-45-off-challenges/) | Ended | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
-| 8 | Blue Guardian Futures | PFD | 60% | New Year Offer: 60% OFF All Evaluation Accounts with code PFD | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/) | Ended | [Blue Guardian Futures Page](https://propfirmdiscount.com/prop-firm/blue-guardian-futures/) |
-| 9 | PipFarm | PFDC | 30% | New Year Offer: 100K Accounts from $199 + 5K Account for $9.99 | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-new-year-100k-5k-offer/) | Ended | [PipFarm Page](https://propfirmdiscount.com/prop-firm/pipfarm/) |
-| 10 | Super Funded | CHUN | 30% | New Year Offer: 30% OFF All Challenges Entry Cost | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-new-year-30-off/) | Ended | [Super Funded Page](https://propfirmdiscount.com/prop-firm/super-funded/) |
+| 1 | FundingTraders | PFD | 26% | New Year Offer: 26% Off + 100% Split & BOGO with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-new-year-offer-26-off/) | Ended | [FundingTraders Page](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
+| 2 | Earn2Trade | PFD | 50% | 2026 New Year Deal: 50% Off Select Evaluations with code PFD | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/) | Ended | [Earn2Trade Page](https://propfirmdiscount.com/prop-firm/earn2trade/) |
+| 3 | QT Funded | PFDDEAL | 50% | New Year Offer: Free Matching Instant Account on All Models | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/) | Ended | [QT Funded Page](https://propfirmdiscount.com/prop-firm/qt-funded/) |
+| 4 | Phoenix Trader Funding | PFD | 40% | 50% Off New Year Thor Subscriptions | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-50-off-new-year-thor/) | Ended | [Phoenix Trader Funding Page](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/) |
+| 5 | AquaFunded | PFD | 35% | New Year Offer: 50% Off Instants, 45% Off Challenges + BOGO | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-offer-50-off-instants-45-off-challenges/) | Ended | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
+| 6 | Blue Guardian Futures | PFD | 60% | New Year Offer: 60% OFF All Evaluation Accounts with code PFD | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/) | Ended | [Blue Guardian Futures Page](https://propfirmdiscount.com/prop-firm/blue-guardian-futures/) |
+| 7 | PipFarm | PFDC | 30% | New Year Offer: 100K Accounts from $199 + 5K Account for $9.99 | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-new-year-100k-5k-offer/) | Ended | [PipFarm Page](https://propfirmdiscount.com/prop-firm/pipfarm/) |
+| 8 | Super Funded | CHUN | 30% | New Year Offer: 30% OFF All Challenges Entry Cost | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-new-year-30-off/) | Ended | [Super Funded Page](https://propfirmdiscount.com/prop-firm/super-funded/) |
+| 9 | TX3 Funding | PFD1 | 25% | New Year Deal: 20% OFF All Challenges | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-new-year-promotion/) | Ended | [TX3 Funding Page](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
+| 10 | Equity Edge | PFD | 20% | New Year Offer: 50% OFF Challenges + Free Instant Account | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-new-year-offer-50-off-challenges-free-instant-account/) | Ended | [Equity Edge Page](https://propfirmdiscount.com/prop-firm/equity-edge/) |
 
-The latest recorded New Year's Eve-tagged promotion is Upcomers offering Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement with code PFD, published on January 22, 2026. The offer has since ended.
+The latest recorded New Year's Eve-tagged promotion is FundingTraders offering New Year Offer: 26% Off + 100% Split & BOGO with code PFD, published on January 21, 2026. The offer has since ended.
 
 - Event: New Year's Eve
-- New Year's Eve deals in this dataset: 39
-- Firms represented: 24
-- Deals published in 2026: 19
-- Firms with a code in the 2026 season: 18
-- Newest deal: 2026-01-22
+- New Year's Eve deals in this dataset: 38
+- Firms represented: 23
+- Deals published in 2026: 18
+- Firms with a code in the 2026 season: 17
+- Newest deal: 2026-01-21
 - GitHub repository: [New Year's Eve Deals Repository](https://github.com/propfirmdiscounts/new-years-eve-prop-firm-deals)
-- All New Year's Eve-tagged deals on the main site: 75 (39 of them from firms with a verified code, listed below)
+- All New Year's Eve-tagged deals on the main site: 75 (38 of them from firms with a verified code, listed below)
 - Event page: [New Year's Eve Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/new-years-eve/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
@@ -39,27 +39,26 @@ This repository includes New Year's Eve-tagged deals from firms with a verified 
 
 **What is the newest New Year's Eve prop firm deal?**
 
-**Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement with code PFD** from Upcomers — published 2026-01-22. Offer: 90% off. Offer has ended.
+**New Year Offer: 26% Off + 100% Split & BOGO with code PFD** from FundingTraders — published 2026-01-21. Offer: 26% off. Offer has ended.
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 24 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 93% off with code PFD at Upcomers. The code is separate from the New Year's Eve offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 23 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 70% off with code PFD at FundingTraders. The code is separate from the New Year's Eve offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 90% off. Standing discount codes among these firms run 93% off, and every deal in the history below states its own figure.
+The newest deal is 26% off. Standing discount codes among these firms run 70% off, and every deal in the history below states its own figure.
 
 ---
 
 ## New Year's Eve Prop Firm Deal History
 
-Total deals tracked: **39**
+Total deals tracked: **38**
 
-### 2026 New Year's Eve Deals (19 deals)
+### 2026 New Year's Eve Deals (18 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
-| 2026-01-22 | Upcomers | Upcomers: Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement with code PFD | 90% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/) |
 | 2026-01-21 | FundingTraders | FundingTraders: New Year Offer: 26% Off + 100% Split & BOGO with code PFD | 26% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-new-year-offer-26-off/) |
 | 2026-01-13 | thePropTrade | thePropTrade: New Year Offer: 26% OFF Classic Accounts + 100% Profit Split | 26% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-new-year-promotion-classic-accounts-profit-split/) |
 | 2026-01-13 | FXIFY | FXIFY: 2026 Offer: 20% Off All Trading Challenges | 20% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-2026-discount/) |

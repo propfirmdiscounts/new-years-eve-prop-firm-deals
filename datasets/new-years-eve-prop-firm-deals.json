@@ -1,25 +1,5 @@
 [
   {
-    "deal_id": 10753,
-    "prop_firm": "Upcomers",
-    "prop_firm_slug": "upcomers",
-    "title": "Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement with code PFD",
-    "event": "New Year's Eve",
-    "offer_type": "coupon",
-    "scope": [
-      "Evaluation Accounts, All Programs"
-    ],
-    "discount_value": "90%",
-    "standing_code": "PFD",
-    "standing_discount": "93%",
-    "date_published": "2026-01-22",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
-    "last_verified": "2026-01-22",
-    "activation_link": "https://propfirmdiscount.com/go/upcomers"
-  },
-  {
     "deal_id": 10743,
     "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
@@ -250,8 +230,8 @@
       "All Challenges"
     ],
     "discount_value": "20%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2026-01-03",
     "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-new-year-promotion/",
@@ -670,8 +650,8 @@
       "Pro And One Phase Accounts"
     ],
     "discount_value": "30%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2025-12-19",
     "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-year-end-savings-pro-one-phase/",
@@ -690,8 +670,8 @@
       "Flex Challenges"
     ],
     "discount_value": "35%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2025-12-19",
     "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-year-end-savings-flex-challenges/",
