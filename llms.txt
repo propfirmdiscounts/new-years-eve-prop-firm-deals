@@ -3,7 +3,7 @@
 This dataset tracks every New Year's Eve deal published on PropFirmDiscount.com by a
 prop firm carrying a verified discount code.
 
-Deals tracked: 38 across 23 firms. Newest deal: 2026-01-21.
+Deals tracked: 37 across 22 firms. Newest deal: 2026-01-21.
 Every deal row carries that firm's discount code, which works any time.
 
 Event page: https://propfirmdiscount.com/tag/new-years-eve/
