@@ -8,8 +8,8 @@ As of November 2026, the biggest verified New Year's Eve discount codes in the 2
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest New Year's Eve deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Earn2Trade | PFD | 50% | 2026 New Year Deal: 50% Off Select Evaluations (code PFD) | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/) | Ended | [Earn2Trade Page](https://propfirmdiscount.com/prop-firm/earn2trade/) |
-| 2 | FundingTraders | PFD | 26% | New Year Offer: 26% Off + 100% Split & BOGO (code PFD) | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-new-year-offer-26-off/) | Ended | [FundingTraders Page](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
+| 1 | FundingTraders | PFD | 26% | New Year Offer: 26% Off + 100% Split & BOGO (code PFD) | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-new-year-offer-26-off/) | Ended | [FundingTraders Page](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
+| 2 | Earn2Trade | PFD | 50% | 2026 New Year Deal: 50% Off Select Evaluations (code PFD) | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/) | Ended | [Earn2Trade Page](https://propfirmdiscount.com/prop-firm/earn2trade/) |
 | 3 | QT Funded | PFDDEAL | 50% | New Year Offer: Free Matching Instant Account on All Models | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/) | Ended | [QT Funded Page](https://propfirmdiscount.com/prop-firm/qt-funded/) |
 | 4 | Phoenix Trader Funding | PFD | 40% | 50% Off New Year Thor Subscriptions | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-50-off-new-year-thor/) | Ended | [Phoenix Trader Funding Page](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/) |
 | 5 | AquaFunded | PFD | 35% | New Year Offer: 50% Off Instants, 45% Off Challenges + BOGO | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-offer-50-off-instants-45-off-challenges/) | Ended | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
@@ -43,11 +43,11 @@ This repository includes New Year's Eve-tagged deals from firms with a verified 
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 21 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 50% off with code PFD at Earn2Trade. The code is separate from the New Year's Eve offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 21 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 81% off with code PFD at FundingTraders. The code is separate from the New Year's Eve offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 26% off. Standing discount codes among these firms run 50% off, and every deal in the history below states its own figure.
+The newest deal is 26% off. Standing discount codes among these firms run 81% off, and every deal in the history below states its own figure.
 
 ---
 
